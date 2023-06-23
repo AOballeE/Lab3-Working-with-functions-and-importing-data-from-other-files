@@ -1,6 +1,5 @@
 <h1>Lab 3 - Working with functions and importing data from other files </h1>
 
- ### [Working with choices)
 
 <h2>Description</h2>
 In this lab project we will be importing data from other files to go through the database 
